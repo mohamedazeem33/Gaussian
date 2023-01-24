@@ -10,11 +10,14 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 Step1 :
 Import the numpy module to use the built-in functions for calculation
+<br>
 Step 2:
 Prepare the lists from each linear equations and assign in np.array()
+<br>
 Step 3:
 Using the np.linalg.eig(), we get two results (first is eigenvalue and second is eigenvector) of the
 given matrix.
+<br>
 Step 4:
 End the program
 
